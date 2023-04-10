@@ -1,0 +1,11 @@
+html {
+  box-sizing: border-box;
+}
+.buttons {
+  text-align: center;
+}
+
+.trigger-push {
+  background-color: #073525;
+  border: 1px solid #073525;
+}
